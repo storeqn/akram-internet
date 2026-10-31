@@ -1,9 +1,2 @@
-# أمثلة فارغة فقط. استخدم .dev.vars محلياً ولا ترفعه إلى GitHub.
+# رابط نشر Apps Script المنتهي /exec فقط. لا توجد مفاتيح أو كلمات مرور.
 APPS_SCRIPT_URL=
-APPS_SCRIPT_SECRET=
-TURNSTILE_SITE_KEY=
-TURNSTILE_SECRET_KEY=
-PUBLIC_HOSTNAME=
-ACCESS_TEAM_DOMAIN=
-ACCESS_AUD=
-ADMIN_EMAILS=
